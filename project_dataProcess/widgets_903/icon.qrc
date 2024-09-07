@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icon_source/icon_arrow.png</file>
+        <file>icon_source/icon_start.png</file>
+        <file>icon_source/icon_stop.png</file>
+    </qresource>
+</RCC>
